@@ -1,11 +1,10 @@
-jurwon's README.md 
 
 👋 Hi there! 
-I'm server developer using java and SpringBoot 🌱
-I can also develop mobile app using Android 
+I'm server developer using java and SpringBoot 🌱</br>
+I can also develop mobile app using Android </br>
 
-I'm enjoy hiking, working out and traveling 🛫
-I want to develop everything positively! 🌼
+I'm enjoy hiking, working out and traveling 🛫</br>
+I want to develop everything positively! 🌼</br>
 
 ## 😎 Skills
 
