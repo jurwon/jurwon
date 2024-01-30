@@ -3,7 +3,7 @@
 <div align="center">
   <h1>SON JU WON</h1>
 </div>
-<br><br><br>
+<br>
 
 ## 🌱 도약 
 <div style="display:flex; flex-direction:row;">
