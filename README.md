@@ -47,8 +47,8 @@
 </div>
 
 <h3>저를 더 알고 싶다면 ?</h3>
-<a href="[https://velog.io/@987412563](https://wonscoding.store)">
-    <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
+<a href="https://wonscoding.store">
+    <img src="http://img.shields.io/badge/이력서-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://wndnjs1487@gmail.com">
