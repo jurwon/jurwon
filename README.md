@@ -47,8 +47,8 @@
 </div>
 
 <h3>저를 더 알고 싶다면 ?</h3>
-<a href="https://wonscoding.store">
-    <img src="http://img.shields.io/badge/이력서-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
+<a href="https://alert-hose-04f.notion.site/Son-Ju-Won-326fb03917dd4f48ad7c4247036aa5c4?pvs=4">
+    <img src="http://img.shields.io/badge/포트폴리오-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://wndnjs1487@gmail.com">
