@@ -7,7 +7,7 @@
 
 ## 🌱 도약 
 <div style="display:flex; flex-direction:row;">
-신입 서버 개발자입니다.
+코드와 삶을 조화롭게 살아가며 나만의 길을 찾는 신입 서버 개발자입니다.
 </div><br>
 
 ## 🌼 프로젝트 
