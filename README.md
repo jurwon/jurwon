@@ -18,7 +18,7 @@
 
 ## 💡 목표 
 <div style="display:flex; flex-direction:row;">
-비어있는 부분을 메우는 프로젝트를 진행하고 매일 커밋을 남기는게 현재 목표입니다.
+비어있는 부분을 메우는 프로젝트를 진행하는게 현재 목표입니다.
 </div><br>
 
 ## 😎 Skills
