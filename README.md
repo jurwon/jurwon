@@ -40,16 +40,6 @@
 </div><br>
 </div>
 
-<h3>저를 더 알고 싶다면 ?</h3>
-<a href="https://alert-hose-04f.notion.site/Son-Ju-Won-326fb03917dd4f48ad7c4247036aa5c4?pvs=4">
-    <img src="http://img.shields.io/badge/포트폴리오-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-<a href="https://wndnjs1487@gmail.com">
-    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jurwon&show_icons=true&theme=radical) -->
 
