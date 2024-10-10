@@ -5,21 +5,16 @@
 </div>
 <br>
 
-## 🌱 도약 
+## 🌱 안녕? 
 <div style="display:flex; flex-direction:row;">
-코드와 삶을 조화롭게 살아가며 나만의 길을 찾는 신입 개발자입니다.
+취미로 하는 개발 프로젝트 저장소입니다.
 </div><br>
 
 ## 🌼 프로젝트 
 <div style="display:flex; flex-direction:row;">
-맛.zip (부산 맛집 공유 커뮤니티)를 SpringBoot 웹 제작, 안드로이드 앱 제작, AWS 배포 및 출시까지 진행한 경험이 있습니다.
+맛.zip (부산 맛집 공유 커뮤니티)를 SpringBoot 웹 제작, 안드로이드 앱 제작, AWS 배포 및 출시 진행 경험이 있습니다.
 </div><br>
 
-
-## 💡 목표 
-<div style="display:flex; flex-direction:row;">
-비어있는 부분을 메우는 프로젝트를 진행하는게 현재 목표입니다.
-</div><br>
 
 ## 😎 Skills
 <div style="display:flex; flex-direction:row;">
